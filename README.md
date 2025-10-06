@@ -191,3 +191,10 @@ Una vez conectado, además de los comandos estándar de Windows (`dir`, `whoami`
 <p align="center">
     <img src="resources/usando_el_RAT.png" alt="Usando el RAT"/>
 </p>
+
+## Persistencia
+
+<p align="center">
+    <img src="resources/persistencia.png" alt="Persistencia"/>
+</p>
+
