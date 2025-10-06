@@ -5,7 +5,9 @@
 
 > SHA original: `a0d6fd84185f75af2c77ae3e4d7fc4bf18635277114231afe7da78b36b5ba20c`
 
-[demostración)(#demostración)
+Si no quiere hacer el proceso hay una [demostración](#demostración) al final de este README.
+
+---
 
 Este proyecto es una implementación con fines educativos de un RAT que permite la ejecución remota de comandos en una máquina Windows desde un servidor en Linux. Toda la comunicación se encuentra cifrada utilizando **AES-128 (CBC)** para garantizar la confidencialidad.
 
@@ -113,7 +115,8 @@ Para probar la aplicación de forma segura, se recomienda usar una máquina virt
 1.  **Monta la carpeta del proyecto** como un volumen compartido o una carpeta de red en tu VM de Windows. Esto te permitirá acceder al `client.exe` compilado desde dentro de la VM.
 2.  Asegúrate de que la red de la VM esté configurada para que pueda comunicarse con la máquina anfitriona (Linux). Una configuración de red "Puente" (Bridged) o "NAT" suele funcionar.
 
-_NOTA: La carpeta compartida no es necesaria pero yo lo hice así para el desarrollo_
+> [!NOTE]
+> La carpeta compartida no es necesaria pero yo lo hice así para el desarrollo
 
 ### Paso 4: Iniciar el Servidor
 
