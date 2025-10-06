@@ -3,7 +3,7 @@
 > [!WARNING]
 > Aunque es algo super sencillo prefiero no tener directamente malware en mis repos de GitHub así que, por favor, descargue la `encryption.key` adjunta y ejecute el código para desencriptar: `./direncrypt ./Client -d encryption.key`
 
-> SHA original: `a0d6fd84185f75af2c77ae3e4d7fc4bf18635277114231afe7da78b36b5ba20c`
+> SHA original: `e4bdabeb753a2389e8f7bdb4aff1d0cf5d515a93bea991a14c0f1d292015cb65`
 
 Si no quiere hacer el proceso hay una [demostración](#demostración) al final de este README.
 
