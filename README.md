@@ -1,9 +1,10 @@
 # RAT C++
 
 > [!WARNING]
-> Aunque es algo super sencillo prefiero no tener directamente malware en mis repos de GitHub así que, por favor, descargue la `encryption.key` adjunta y ejecute el código para desencriptar: `./direncrypt ./Client -d encryption.key`
+> Aunque es algo super sencillo prefiero no tener directamente malware en mis repos de GitHub así que, por favor, descargue la `encryption.key` adjunta y ejecute el código para desencriptar:
+> `./direncrypt ./Client -d encryption.key`
 
-> SHA original: `e4bdabeb753a2389e8f7bdb4aff1d0cf5d515a93bea991a14c0f1d292015cb65`
+> SHA original: `fb78bee1941d787ce88a531f444aab5d785e6d065d0db7c25acd6bf3d820c93a`
 
 Si no quiere hacer el proceso hay una [demostración](#demostración) al final de este README.
 
